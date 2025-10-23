@@ -2,6 +2,12 @@
 **Project Summary**
 This project presents a comprehensive analysis of pizza sales data using structured SQL queries. It was developed to answer key business questions related to product performance, customer preferences, and revenue trends. By leveraging SQL techniques such as JOIN, GROUP BY, and aggregate functions, the project delivers actionable insights that can support strategic decision-making in a food retail environment.
 
+**Dataset Used**
+<a href="https://github.com/AHMADALI200/Pizza-Sales-Analysis-SQL-/blob/main/order_details.csv">Order_Details<a/>
+<a href="https://github.com/AHMADALI200/Pizza-Sales-Analysis-SQL-/blob/main/orders.csv">Orders<a/>
+<a href="https://github.com/AHMADALI200/Pizza-Sales-Analysis-SQL-/blob/main/pizza_types.csv">pizza_types<a/>
+<a href="https://github.com/AHMADALI200/Pizza-Sales-Analysis-SQL-/blob/main/pizzas.csv">pizzas<a/>
+
 **Objectives**
 The primary goals of this project were to:
 - Explore and interpret pizza sales data using SQL
